@@ -1,5 +1,6 @@
 <h2>Hey 👋What's Up?</h1>
 <h2>I'm Abdan Nawwaf El Hibban</h2>
+<h4>NIM 230605110066</h4>
 <h3>An Informatics Student</h3>
 
 ###
@@ -15,7 +16,6 @@
 ###
 
 <h4>Class mobile programming practicum B</h4>
-<h4>230605110066</h4>
 
 ###
 
