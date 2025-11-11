@@ -2,6 +2,7 @@
 <h2>I'm Abdan Nawwaf El Hibban</h2>
 <h4>NIM 230605110066</h4>
 <h3>An Informatics Student</h3>
+<h4>Mobile programming practicum class B</h4>
 
 ###
 
@@ -13,10 +14,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
 </div>
-
-###
-
-<h4>Class mobile programming practicum B</h4>
 
 ###
 
