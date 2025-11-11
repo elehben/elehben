@@ -21,9 +21,9 @@
 
   |No   |Tgl   |Praktikum ke   |Topik   |Laporan   |Repo   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|1   |03-09-2025   |01   |Pengenalan Mobile Programming dan Setup Lingkungan   |[Laporan 1](https://drive.google.com/file/d/1HKF57yC1YunJQ4F1_IyNXwEvLNEihIB1/view?usp=drive_link "Laporan 1")   |[Repo 1](https://github.com/Abdannawwaf1/Mobile-Programming-Practicum/tree/main/praktikum1 "Repo 1")   |
-|2   |03-09-2025   |01   |Widget *Row* dan *Column*   |[Laporan 2](https://drive.google.com/file/d/1pVP4HEPgC6oJOaeDjs46BJSV5ueRW-R3/view?usp=drive_link "Laporan 2")   |[Repo 2](https://github.com/Abdannawwaf1/Mobile-Programming-Practicum/tree/main/praktikum2 "Repo 2")   |
-|3   |10-09-2025   |02   |Pengaturan Layout Row dan Column di Flutter   |[Laporan 3](https://drive.google.com/file/d/1an7TH1v76EZLJu0jhmrxl9I7pvMNtFyB/view?usp=drive_link "Laporan 3")   |[Repo 3](https://github.com/Abdannawwaf1/Mobile-Programming-Practicum/tree/main/praktikum3 "Repo 3")   |
-|4   |10-09-2025   |02   |Widget Flexible dan Expanded   |[Laporan 4](https://drive.google.com/file/d/1deVjEOm4Skh05L977DX7E-rmdQvTYsuk/view?usp=drive_link "Laporan 4")   |[Repo 4](https://github.com/Abdannawwaf1/Mobile-Programming-Practicum/tree/main/praktikum4 "Repo 4")   |
+|1   |03-09-2025   |01   |Pengenalan Mobile Programming dan Setup Lingkungan   |[Laporan 1](https://drive.google.com/file/d/1HKF57yC1YunJQ4F1_IyNXwEvLNEihIB1/view?usp=drive_link "Laporan 1")   |[Repo 1](https://github.com/elehben/Mobile-Programming-Practicum/tree/main/praktikum1 "Repo 1")   |
+|2   |03-09-2025   |01   |Widget *Row* dan *Column*   |[Laporan 2](https://drive.google.com/file/d/1pVP4HEPgC6oJOaeDjs46BJSV5ueRW-R3/view?usp=drive_link "Laporan 2")   |[Repo 2](https://github.com/elehben/Mobile-Programming-Practicum/tree/main/praktikum2 "Repo 2")   |
+|3   |10-09-2025   |02   |Pengaturan Layout Row dan Column di Flutter   |[Laporan 3](https://drive.google.com/file/d/1an7TH1v76EZLJu0jhmrxl9I7pvMNtFyB/view?usp=drive_link "Laporan 3")   |[Repo 3](https://github.com/elehben/Mobile-Programming-Practicum/tree/main/praktikum3 "Repo 3")   |
+|4   |10-09-2025   |02   |Widget Flexible dan Expanded   |[Laporan 4](https://drive.google.com/file/d/1deVjEOm4Skh05L977DX7E-rmdQvTYsuk/view?usp=drive_link "Laporan 4")   |[Repo 4](https://github.com/elehben/Mobile-Programming-Practicum/tree/main/praktikum4 "Repo 4")   |
 
 ###
