@@ -32,5 +32,6 @@
 |11   |15-10-2025   |07   |Manajemen State dengan GetX   |[Laporan 11](https://github.com/elehben "Laporan 11")   |[Repo 11](https://github.com/elehben/Mobile-Programming-Practicum/tree/main/praktikum11 "Repo 11")   |
 |12   |22-10-2025   |08   |UTS   |[Laporan UTS](https://drive.google.com/file/d/1GKayM6iUYCwgf_wLL-tzTkrgkKMRBIWy/view?usp=drive_link "Laporan UTS")   |[Repo UTS](https://github.com/elehben/home_decor "Repo UTS")   |
 |13   |5-11-2025   |09   |Akses Lokasi dengan GPS di Flutter   |[Laporan 12](https://github.com/elehben "Laporan 12")   |[Repo 12](https://github.com/elehben/Mobile-Programming-Practicum/tree/main/praktikum12 "Repo 12")   |
+|14   |19-11-2025   |10   | Operasi CRUD di Flutter dengan REST API   |[Laporan 13](https://github.com/elehben "Laporan 13")   |[Repo 13](https://github.com/elehben/Mobile-Programming-Practicum/tree/main/praktikum13 "Repo 13")   |
 
 ###
