@@ -33,5 +33,6 @@
 |12   |22-10-2025   |08   |UTS   |[Laporan UTS](https://drive.google.com/file/d/1GKayM6iUYCwgf_wLL-tzTkrgkKMRBIWy/view?usp=drive_link "Laporan UTS")   |[Repo UTS](https://github.com/elehben/home_decor "Repo UTS")   |
 |13   |5-11-2025   |09   |Akses Lokasi dengan GPS di Flutter   |[Laporan 12](https://drive.google.com/file/d/1bmN5_Tr9RcylVHPQ2nT05nCiyaq7Rg6X/view?usp=drive_link "Laporan 12")   |[Repo 12](https://github.com/elehben/Mobile-Programming-Practicum/tree/main/praktikum12 "Repo 12")   |
 |14   |19-11-2025   |10   | Operasi CRUD di Flutter dengan REST API   |[Laporan 13](https://drive.google.com/file/d/1de4lsch5ICTSV3ynwfRY7Z5vG4AaWNlm/view?usp=drive_link "Laporan 13")   |[Repo 13](https://github.com/elehben/Mobile-Programming-Practicum/tree/main/praktikum13 "Repo 13")   |
+|15   |12-12-2025   |12   | Ujian Akhir Semester (UAS)   |[Laporan UAS](https://drive.google.com/file/d/1c0QEvXN3XXU1vlx-iHAHA9LvU5A_r5vF/view?usp=drive_link "Laporan UAS")   |[Home Decor App](https://github.com/elehben/home_decor "Home Decor App")   |
 
 ###
